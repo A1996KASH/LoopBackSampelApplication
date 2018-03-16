@@ -7,8 +7,8 @@
         "host": "localhost",
         "port": 3306,
         "url": "",
-        "database": "wd3pm",
-        "password": "super",
+        "database": "qwerty",
+        "password": "",
         "name": "mySQL",
         "user": "root",
         "connector": "mysql"
