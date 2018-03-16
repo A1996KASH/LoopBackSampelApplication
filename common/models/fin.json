@@ -1,0 +1,26 @@
+{
+  "name": "fin",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "NAME": {
+      "type": "string",
+      "required": true
+    },
+    "CITY": {
+      "type": "string",
+      "required": true
+    },
+    "ADDRESS": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
